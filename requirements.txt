@@ -1,0 +1,10 @@
+# Core numerics (required)
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Map layers (optional: only for the geo-anchored figures and the interactive map;
+# the experiment falls back to a synthetic hillshade if tiles are unavailable)
+pyproj>=3.5
+contextily>=1.4
+folium>=0.14

@@ -30,8 +30,7 @@ Companion code for the paper on a periodic **M/M(t)/1** model of an on-board tra
 ├── CITATION.cff
 ├── PUBLISHING.md                            # step-by-step: Colab → GitHub → Zenodo
 ├── vsm_spectral_qos_experiment.py           # standalone script (headless; writes PNG/HTML)
-└── notebooks/
-    └── VSM_radio_map_QoS_experiment_EN.ipynb  # annotated notebook (theory + figures)
+└── VSM_radio_map_QoS_experiment_EN.ipynb    # annotated notebook (theory + figures)
 ```
 
 ## Quickstart

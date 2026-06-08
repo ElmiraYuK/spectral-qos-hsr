@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software (this record) and the accompanying paper."
+title: "Spectral QoS Controller on a High-Speed-Rail Corridor"
+abstract: >-
+  Reproducible implementation of a periodic M/M(t)/1 model of an on-board traffic
+  aggregator in a 5G/6G high-speed-rail network: a geo-anchored service-rate profile
+  with coverage gaps, a harmonic-balance spectral solver validated against Monte Carlo,
+  and a comparison of six admission controllers including the proposed Spectral+map controller.
+type: software
+authors:
+  - family-names: "Kalimulina"
+    given-names: "El'mira Yu."
+    affiliation: "Kharkevich Institute for Information Transmission Problems of the Russian Academy of Sciences (IITP RAS); Lomonosov Moscow State University"
+    orcid: "https://orcid.org/0000-0001-7158-040X"
+version: "1.0.0"
+date-released: "2026-06-08"
+license: MIT
+# doi: "10.5281/zenodo.XXXXXXX"                         # <-- fill in after reserving on Zenodo
+repository-code: "https://github.com/ElmiraYuK/spectral-qos-hsr"
+keywords:
+  - "time-dependent queue"
+  - "harmonic balance"
+  - "spectral method"
+  - "admission control"
+  - "5G/6G"
+  - "high-speed rail"

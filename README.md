@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElmiraYuK/spectral-qos-hsr/blob/main/VSM_radio_map_QoS_experiment_EN.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20596212.svg)](https://doi.org/10.5281/zenodo.20596212)
 
 Companion code for the paper on a periodic **M/M(t)/1** model of an on-board traffic aggregator in a 5G/6G **high-speed-rail (HSR)** network. The service rate `μ(t)` is shaped by the moving train passing a regular lattice of base stations along a **trans-Alpine corridor (Paris–Milan)**; sparse cellular coverage makes `μ(t)` quasi-periodic with occasional deep fades ("coverage gaps").
 
@@ -59,7 +59,7 @@ Per the paper's data statement, **the corridor geometry does not enter the servi
 If you use this software, please cite **both** the paper and this software record (see `CITATION.cff`):
 
 * *Paper:* An Edge-Deployable Spectral QoS Controller for Periodic Traffic Aggregation in 5G/6G Mobile High-Speed Platforms. *(journal / DOI to be added on acceptance.)*
-* *Software:* El'mira Yu. Kalimulina, *Spectral QoS Controller on a High-Speed-Rail Corridor* (2026), Zenodo, DOI: `10.5281/zenodo.XXXXXXX`.
+* *Software:* El'mira Yu. Kalimulina, *Spectral QoS Controller on a High-Speed-Rail Corridor* (2026), Zenodo, DOI: `10.5281/zenodo.20596212`.
 
 ## Related
 
